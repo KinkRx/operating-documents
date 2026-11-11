@@ -11,6 +11,7 @@ For the purposes of this description of the KinkRx Terms of Service
 ## 2. Expectations of Attendees
 - Attendees must be at least 18 years old (or the legal age required in the jurisdiction of the Event).
 - If an Attendee is younger than 18 years old (or the legal age required in the jurisdiction) they will proactively inform the Instructors of their age and not wait for the Instructors to verify it.
+- Attendees will arrive the Event venue with enough time to complete the check-in process before the class start time.
 - Attendees will thoroughly read and sign the waiver at http://kinkrx.link/waiver before they attend the class.
 - Attendees agree never to use the knowledge and/or skills they learn at Events to commit illegal acts or crimes. Instructors are not responsible for how Attendees apply their knowledge and/or skills outside Events.
 - Attendees must present valid physical government identification documents that are deemed adequate by the Instructors. Information on the presented identification documents must match that on the waiver signed by the Attendee. Failure to provide such identification results in refusal of entry to the Event without refund.
