@@ -11,7 +11,7 @@ For the purposes of this description of the KinkRx Terms of Service
 ## 2. Expectations of Attendees
 - Attendees must be at least 18 years old (or the legal age required in the jurisdiction of the Event).
 - If an Attendee is younger than 18 years old (or the legal age required in the jurisdiction) they will proactively inform the Instructors of their age and not wait for the Instructors to verify it.
-- Attendees will arrive the Event venue with enough time to complete the check-in process before the class start time.
+- Attendees will arrive at the Event venue with enough time to complete the check-in process before the class start time.
 - Attendees will thoroughly read and sign the waiver at http://kinkrx.link/waiver before they attend the class.
 - Attendees agree never to use the knowledge and/or skills they learn at Events to commit illegal acts or crimes. Instructors are not responsible for how Attendees apply their knowledge and/or skills outside Events.
 - Attendees must present valid physical government identification documents that are deemed adequate by the Instructors. Information on the presented identification documents must match that on the waiver signed by the Attendee. Failure to provide such identification results in refusal of entry to the Event without refund.
@@ -77,7 +77,8 @@ Attendees and the KinkRx Team commit to engaging in such a process in a collabor
 ## 5. Ticketing & Refunds
 Attendees acknowledge that:
 - Tickets are non‑refundable unless the Event is canceled. In the event of cancellation, the base ticket price is refunded, but not the fees that the ticketing platform charges.
-- Tickets are transferable up to 5 business days before the Event. Ticket transfer requests must be communicated to the KinkRx Team via the Contact Page and must include the names and email addresses of the people to whom tickets will be transferred.
+- A ticket is transferable to another Attendee up to 5 business days before the Event. Ticket transfer requests must be communicated to the KinkRx Team via the Contact Page and must include the names and email addresses of the people to whom tickets will be transferred.
+- A ticket for one Event is not transferable to another Event.
 - Ticket transfers must be confirmed by the KinkRx Team to be considered completed. Without confirmation, Attendees other those who listed during ticket purchase will not be admitted to the Event.
 
 ## 6. Acknowledgment and Agreement
