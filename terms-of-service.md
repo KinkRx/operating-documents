@@ -1,4 +1,4 @@
-# KinkRx Terms Of Service
+# Terms Of Service
 
 ## 1. Definitions
 For the purposes of this description of the KinkRx Terms of Service
